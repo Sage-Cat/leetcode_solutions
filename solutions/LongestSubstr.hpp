@@ -1,6 +1,7 @@
 // https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 #include <string>
+#include <unordered_set>
 
 using std::string;
 

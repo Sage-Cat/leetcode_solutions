@@ -1,8 +1,12 @@
+// https://leetcode.com/problems/median-of-two-sorted-arrays/
+
 #include <vector>
 
 using std::vector;
 
 // Solution
+// Time Complexity O(m+n)
+// Space Complexity O(m+n)
 
 class Solution
 {
